@@ -1,9 +1,9 @@
-<h2>👋 Hi, I’m Lázaro (@lvplazaro)</h2>
+<h2>👋 Oi, eu sou o Lázaro (@lvplazaro)</h2>
 
 <ul>
-  <li>👀 <strong>Interests:</strong> I have a passion for computers and technology, and I'm particularly interested in software development and programming.</li>
-  <li>🌱 <strong>Learning:</strong> Currently, I'm honing my skills in programming as I embark on my journey in the tech field.</li>
-  <li>💼 <strong>Opportunities:</strong> I'm actively looking for opportunities to grow as a developer and to collaborate on exciting projects.</li>
-  <li>💬 <strong>Let's Connect:</strong> Feel free to reach out to me if you'd like to collaborate or share ideas. I'm always open to learning and connecting with like-minded people.</li>
-  <li>⚡ <strong>Fun Fact:</strong> I'm a tech enthusiast who enjoys diving into the latest trends and innovations in the world of technology.</li>
+  <li>👀 <strong>Interesses:</strong> Tenho uma paixão por computadores e tecnologia, e estou particularmente interessado em desenvolvimento de software e programação.</li>
+  <li>🌱 <strong>Aprendizado:</strong> Atualmente, estou aprimorando minhas habilidades em programação enquanto inicio minha jornada na área de tecnologia.</li>
+  <li>💼 <strong>Oportunidades:</strong> Estou em busca de oportunidades para crescer como desenvolvedor e colaborar em projetos empolgantes.</li>
+  <li>💬 <strong>Vamos nos Conectar:</strong> Sinta-se à vontade para entrar em contato se quiser colaborar ou compartilhar ideias. Estou sempre aberto a aprender e a me conectar com pessoas que compartilham interesses semelhantes.</li>
+  <li>⚡ <strong>Curiosidade:</strong> Sou um entusiasta de tecnologia que gosta de explorar as últimas tendências e inovações no mundo da tecnologia.</li>
 </ul>
